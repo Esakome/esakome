@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<p align="center" style="font-family: 'Instrument Serif', serif; font-size: 18px; color: #E5E5E5;">
-  <em>Not a consultant. An operator.</em>
-</p>
-
 ---
 
 ## About
