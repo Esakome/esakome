@@ -42,9 +42,9 @@ I'm a **Venture Operator for Pan-African Tech** — I diagnose, architect, and e
   | [repo-name](https://github.com/esakome/repo-name) | Short description of what it does. | `Python` | ⭐ 12 |
 -->
 
-| Project | Description | Language / Stack | Stars |
-|---------|-------------|------------------|-------|
-| *(Coming soon)* | Placeholder for your first public repo. | — | — |
+| Project | Description | Language / Stack |
+|---------|-------------|------------------|
+| [Repo-Meter](https://github.com/Esakome/repo-meter.git) | Git-aware CLI and live TUI for monitoring repo size, local drift, tracked vs untracked changes, and multi-repo health in real time. | TypeScript, JavaScript |
 
 <!-- When you have repos, replace the placeholder above with real rows like this:
 | [openclaw](https://github.com/esakome/openclaw) | Autonomous agent orchestration for African infrastructure. | `Go` | ⭐ 0 |
