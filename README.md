@@ -53,8 +53,9 @@ I'm a **Venture Operator for Pan-African Tech** — I diagnose, architect, and e
 
 <div align="center">
 
-   [![instagram.com](https://img.shields.io/badge/Instagram-F0531C?style=for-the-badge&logo=instagram&logoColor=0A0A0A&labelColor=F0531C)](https://instagram.com/theodoreesakome)
+   [![instagram](https://img.shields.io/badge/instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=F0531C)](https://instagram.com/theodoreesakome)
   [![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=F0531C)](https://x.com/theodoreesakome)
+  [![npm](https://img.shields.io/badge/npm-0A0A0A?style=for-the-badge&logo=npm&logoColor=F0531C)](https://www.npmjs.com/~esakome)
   [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F0531C)](mailto:teoesak@gmail.com)
 
 </div>
