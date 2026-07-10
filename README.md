@@ -16,6 +16,7 @@ Right now that's **Kolanut Technologies** — engineering infrastructure built f
 
 - [@KolanutTechnologies](https://github.com/KolanutTechnologies) — African-sovereign engineering infrastructure
 - [kola-language-packs](https://github.com/KolanutTechnologies/kola-language-packs) — African-language keyword maps for dev tools (live, community contributions welcome)
+- [@CivicStackAfrica](https://github.com/CivicStackAfrica) — Open civic infrastructure for Africa (coming soon)
 - [repo-meter](https://github.com/Esakome/repo-meter) — open source CLI I shipped earlier
 
 ## Elsewhere
