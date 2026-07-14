@@ -15,7 +15,7 @@ Right now that's **Kolanut Technologies** — engineering infrastructure built f
 ## Shipped
 
 - [repo-meter](https://github.com/Esakome/repo-meter) — Git-aware CLI and live TUI for monitoring repo size, local drift, tracked vs untracked changes, and multi-repo health in real time.
-- [local-agent-skills-router]([https://github.com/Esakome/repo-meter](https://github.com/Esakome/local-agent-skills-router)) — For people who keep Agent Skills on their machine or team drive. Switch repos without dragging the same pack everywhere
+- [local-agent-skills-router](https://github.com/Esakome/local-agent-skills-router) — For people who keep Agent Skills on their machine or team drive. Switch repos without dragging the same pack everywhere
 
 
 ## Building
